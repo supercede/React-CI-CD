@@ -1,3 +1,4 @@
+import { render } from '@testing-library/react';
 import Enzyme, { mount } from 'enzyme';
 import App from './App';
 import Quotes from './components/Quotes';
